@@ -1,4 +1,4 @@
-# [MCUboot](http://mcuboot.com/)
+# [MCUboot test nordic](http://mcuboot.com/)
 
 [![Package on PyPI](https://img.shields.io/pypi/v/imgtool.svg)][pypi]
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/12307/badge.svg)][coverity]
